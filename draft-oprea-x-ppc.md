@@ -4,7 +4,7 @@ abbrev: "X-PPC"
 category: info
 ipr: trust200902
 
-docname: draft-oprea-x-ppc-00
+docname: draft-oprea-x-ppc-latest
 submissiontype: IETF
 date: 2026-02-27
 consensus: false
