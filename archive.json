@@ -1,0 +1,83 @@
+{
+  "magic": "E!vIA5L86J2I",
+  "timestamp": "2026-03-01T02:56:17.320225+00:00",
+  "repo": "unneuron/x-ppc-standard",
+  "labels": [
+    {
+      "name": "bug",
+      "description": "Something isn't working",
+      "color": "d73a4a"
+    },
+    {
+      "name": "documentation",
+      "description": "Improvements or additions to documentation",
+      "color": "0075ca"
+    },
+    {
+      "name": "duplicate",
+      "description": "This issue or pull request already exists",
+      "color": "cfd3d7"
+    },
+    {
+      "name": "enhancement",
+      "description": "New feature or request",
+      "color": "a2eeef"
+    },
+    {
+      "name": "good first issue",
+      "description": "Good for newcomers",
+      "color": "7057ff"
+    },
+    {
+      "name": "help wanted",
+      "description": "Extra attention is needed",
+      "color": "008672"
+    },
+    {
+      "name": "invalid",
+      "description": "This doesn't seem right",
+      "color": "e4e669"
+    },
+    {
+      "name": "question",
+      "description": "Further information is requested",
+      "color": "d876e3"
+    },
+    {
+      "name": "wontfix",
+      "description": "This will not be worked on",
+      "color": "ffffff"
+    }
+  ],
+  "issues": [],
+  "pulls": [
+    {
+      "number": 1,
+      "id": "PR_kwDORacN9c7G2IJN",
+      "title": "draft-oprea-x-ppc-00: initial submission-ready draft",
+      "url": "https://github.com/unneuron/x-ppc-standard/pull/1",
+      "state": "MERGED",
+      "author": "unneuron",
+      "authorAssociation": "OWNER",
+      "assignees": [],
+      "labels": [],
+      "body": "Add the complete X-PPC Internet-Draft (draft-oprea-x-ppc-00).\n\nIncludes all review rounds: security hardening, interop fixes, IANA compliance, operational polish, idnits 2.17.1 clean (0 errors, 0 flaws), and RFC 2606 FQDN compliance.",
+      "createdAt": "2026-02-27T14:56:49Z",
+      "updatedAt": "2026-02-27T14:57:58Z",
+      "baseRepository": "unneuron/x-ppc-standard",
+      "baseRefName": "main",
+      "baseRefOid": "f749b188ae1298138a719fb8b79c6007b51b711d",
+      "headRepository": "unneuron/x-ppc-standard",
+      "headRefName": "inital-draft",
+      "headRefOid": "efcaab3d8800c2a042a64addfe5b1a9a47aa2786",
+      "closedAt": "2026-02-27T14:57:58Z",
+      "mergedAt": "2026-02-27T14:57:58Z",
+      "mergedBy": "unneuron",
+      "mergeCommit": {
+        "oid": "b4038ddbf77904dd012ea624d52f5572ef4ac2b5"
+      },
+      "comments": [],
+      "reviews": []
+    }
+  ]
+}
